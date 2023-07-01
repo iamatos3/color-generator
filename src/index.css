@@ -1,5 +1,7 @@
 /* ============= GLOBAL CSS =============== */
 
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
 *,
 ::after,
 ::before {
@@ -101,6 +103,7 @@ h3 {
 }
 
 h4 {
+  font-family: 'Satisfy', cursive;
   font-size: 1.563rem;
 }
 
@@ -312,6 +315,7 @@ input[type='color'] {
 .color-light .color-value {
   color: var(--white);
 }
+
 .color-light .percent-value {
   color: var(--white);
 }
