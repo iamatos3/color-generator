@@ -18,7 +18,7 @@ With Color Generator, users can effortlessly explore an extensive palette of col
 
 ## Important Links
 
-- 
+- https://color-generator-cg.netlify.app/
 
 ### Setup Steps
 
