@@ -1,6 +1,7 @@
 # Color Generator
 
-![Color Generator](public/cg-banner.png)
+![Color Generator](https://github.com/iamatos3/color-generator/assets/88846920/b178776a-c7a0-41a4-9a6c-08a108831406)
+
 
 ## Project Description
 
