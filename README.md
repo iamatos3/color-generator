@@ -1,7 +1,6 @@
 # Color Generator
 
-![Color Generator](https://github.com/iamatos3/color-generator/assets/88846920/b178776a-c7a0-41a4-9a6c-08a108831406)
-
+![Color Generator](https://github.com/iamatos3/color-generator/assets/88846920/3b0461c9-657f-42c5-a504-4c3e79720146)
 
 ## Project Description
 
